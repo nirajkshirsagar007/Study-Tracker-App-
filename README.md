@@ -62,7 +62,8 @@ Exit Enter Choice: 1
   "duration": "2 hours",
   "date": "2025-11-23"
 }
-🎯 Learning Outcomes
+
+###🎯 Learning Outcomes
 Practical application of Object-Oriented Programming (OOP) in Java
 
 Experience in designing menu-driven applications
